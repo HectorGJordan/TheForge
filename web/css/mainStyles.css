@@ -14,7 +14,6 @@ body {
     color: #333;
     background-color: #fff;
 } 
-
 /* Colors */
 
 .primary_Color {
@@ -50,7 +49,7 @@ nav a{
   text-decoration:none;
   color:#fff;
   margin:0 20px;
-  font-size:28px;
+  font-size:18px;
   letter-spacing:1px;
   vertical-align: middle;
   position:relative;
@@ -92,7 +91,7 @@ nav a img{
 /* Header opacity 0.6*/
 
 .header_home {
-    background:url(../img/wallhaven-kwlqym.jpg);
+    background:url(../img/Fondo3.jpeg);
     /*url(/img/lightsaber-final.png) no-repeat center ;*/
     background-size: cover;
     height: 100vh;
